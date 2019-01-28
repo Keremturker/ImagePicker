@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ImagesPickers</string>
+
+    <string name="folder_name">Dosya adı</string>
+    <string name="image_num">Resim sayısı</string>
+    <string name="all_folder">Tüm resimler</string>
+    <string name="sheet">Katman</string>
+    <string name="shoot">Çek</string>
+    <string name="picture">Resim</string>
+    <string name="finish">Seç</string>
+    <string name="temp_date">2015-12-2</string>
+    <string name="msg_no_camera">Sistem kamerası yok</string>
+    <string name="msg_amount_limit">Seçim limitine ulaşıldı.</string>
+
+    <string name="open_camera_fail">Kamera açılamadı!</string>
+    <string name="empty_sdcard">Sd kart bulunamadı.</string>
+    <string name="imgbtn_set">Kur</string>
+
+ </resources>
